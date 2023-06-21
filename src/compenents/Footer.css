@@ -1,0 +1,42 @@
+Footer {
+    
+    padding: 30px;
+    text-align:left;
+    position: absolute;
+    left: 50%;
+    top: 100%;
+    bottom: 0;
+    transform: translateX(-50%);
+    
+  }
+  
+  
+  
+  Footer a {
+    color: purple;
+    margin-right: 100px;
+  
+    font-size: 30px;
+
+
+
+
+  }
+  
+ Footer p {
+   
+    color: purple;
+    position: absolute;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+
+  }
+  /*
+  left: 50%;
+    top: 40%;
+    bottom: 0;
+    transform: translateX(-50%);
+    */
+
+   

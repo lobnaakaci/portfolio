@@ -1,0 +1,31 @@
+.Educ{
+    font-size: 1.8em;
+    text-align: left;
+    margin-left: 20px;
+    font-family: cursive;
+
+}
+.na{
+color: purple;
+text-align: center;
+font-family: cursive;
+
+}
+.nav{
+    color: rgb(184, 11, 69);
+    font-weight: bold;
+    font-family: cursive;
+    
+
+}
+.nav1{
+    color: rgb(194, 98, 130);
+    font-weight: 400;
+    font-family: cursive;
+    
+}
+.nav2{
+color: rgb(198, 41, 41);
+font-family: cursive;
+
+}

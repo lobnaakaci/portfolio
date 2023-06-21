@@ -1,0 +1,40 @@
+.loka {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .loka p {
+    font-size: 4em;
+    margin-bottom: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right:10%;
+    padding: 1%;
+  }
+  
+  .loka button.lolob {
+    background-color: rgb(20, 20, 228);
+    color: white;
+    border: none;
+    padding: 10px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-right:50%;
+    cursor: pointer;
+  
+  }
+  
+  .loka button.lolob a {
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 18px;
+    padding: 5%;
+  }
+  .lo{
+    color: rgb(251, 5, 5);
+    font-weight: bolder;
+    font-family: Vivaldi;
+  }
